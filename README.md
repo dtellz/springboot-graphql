@@ -24,3 +24,17 @@ query bookDetails {
   }
 }
 ```
+
+## Run tests
+
+Run all test suite
+
+```bash
+./mvnw test
+```
+
+Run the BookController test
+
+```bash
+./mvnw -Dtest=BookControllerTest test
+```
