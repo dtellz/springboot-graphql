@@ -1,5 +1,11 @@
 # Springboot GraphQL service
 
+## Requirements
+[https://www.oracle.com/java/technologies/downloads/](Java >= 17)
+[https://maven.apache.org/download.cgi](Maven >= 3.5)
+
+## Local setup
+
 Run the project
 
 ```bash
